@@ -1,0 +1,10 @@
+*.swp
+.env
+.env.bak
+docker-compose.override.yml
+config/jicofo/**
+config/jvb/**
+config/prosody/**
+config/transcripts/**
+config/web/keys/**
+config/web/letsencrypt/**
